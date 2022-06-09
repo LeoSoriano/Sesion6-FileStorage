@@ -55,9 +55,9 @@ Controla mejor los archivos, funciona como disco duro de todas las maquinas virt
 
 ![Podremos Cambiar el nivel](Imagenes/cambiodenivel.JPG)
 
-8.- Si queremos conectarel recurso desde  windows osea nuestra propia maquina, debemos darle en conectar y copiar ese comando que nos da.
+8.- Si queremos conectar el recurso desde  windows osea nuestra propia maquina, debemos darle en conectar y copiar ese comando que nos da.
 
-![Conecta](Imagenes/conectar a windows.JPG)
+![Conecta](Imagenes/conectarawindows.JPG)
 
 9.- Ahora abrimos PowerShell Windows.
 
