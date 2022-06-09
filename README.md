@@ -4,7 +4,7 @@
 
 ### Cuenta de Almacenamiento de Azure
 
-![Almacenamiento de Azure](Imagenes\azurealmacenamiento1.png)
+![Almacenamiento de Azure](Imagenes/azurealmacenamiento1.png)
 
 - **Modelo de servicio:** IaaS.
 - **Caracteristicas:** Seguridad, alta, disponibilidad, durabilidad y escalabilidad.
@@ -15,7 +15,7 @@ La cuenta de almacenamiento de es la que contiene todos los objetos de los demas
 
 ## Azure File Storage
 
-![Azure File Storage](Imagenes\azureFileStorage1.png)
+![Azure File Storage](Imagenes/azureFileStorage1.png)
 
 Almacena archivos mas pequeños, controla mejor su acceso, archivos mas privados o tambien para migrar de un ambiente local a Azure.
 
@@ -32,6 +32,7 @@ Controla mejor los archivos, funciona como disco duro de todas las maquinas virt
 #### Pasos para crear un File Storage
 
 1.- Abrimos el [Portal Azure](https://portal.azure.com/)
+
 2.- Nos vamos al almacen que tenemos creado
 
 3.- Nos vamos a la parte de recursos compartidos de archivos
@@ -39,6 +40,7 @@ Controla mejor los archivos, funciona como disco duro de todas las maquinas virt
 ![Recursos Compartidos](Imagenes/recursoscompartidos.JPG)
 
 4.- Creamos un recurso compartido de Archivos
+
 ![Creamos un Recurso Compartido](Imagenes/creamosunrecursocompartido.JPG)
 
 5.- Entramos al recurso llamado *glosario*
